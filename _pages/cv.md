@@ -5,9 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
 Education
 ======
 * **Ph.D. in Electrical engineering and Computer Science** 
