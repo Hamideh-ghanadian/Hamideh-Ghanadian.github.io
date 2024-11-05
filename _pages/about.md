@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at University of Ottawa. My research interest lies in Natural Language Processing (NLP), and it is interdisciplinary with Psychology. I am particularly interested in exploring the ways in which NLP can be used to better understand human psychology and communications. By leveraging techniques such as machine learning and data analysis, I aim to develop algorithms that can accurately understand and generate natural language, with the ultimate goal of shedding new light on how we process and understand language, as well as how we use it to convey meaning and emotion. 
+I am a Ph.D. candidate at the University of Ottawa. My research interest lies in Natural Language Processing (NLP) with an interdisciplinary focus on psychology.  I am particularly interested in incorporating the principles of responsible AI into digital solutions, ensuring that ethical considerations are at the forefront of technological advancements. My work aims to develop NLP algorithms that not only improve our understanding of human communication and psychology but also prioritize ethical standards in the evolving AI landscape.
 
 In addition to my research, I enjoy staying active and exploring the outdoors. Whether it's hiking and biking. I love getting outside and enjoying all that nature has to offer. I also enjoy reading and learning about new topics, particularly in the fields of science and technology.
 
