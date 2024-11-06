@@ -38,6 +38,7 @@ Work experience
     * Conduct semantic and emotion analysis to interpret public opinion, enhancing insights into public sentiment and detecting possible outrage.
 
 
+
 * <img src="https://github.com/Hamideh-ghanadian/Hamideh-Ghanadian.github.io/blob/main/images/uottawa.png?raw=true" alt="Logo" width="40" height="30"> **Teaching Assistant**<br> 
     Department of Computer Science and Electrical Engineering<br>
     University of Ottawa<br>
