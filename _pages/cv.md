@@ -82,4 +82,6 @@ Technical Skills
   MS Azure ML, OpenAI, Neo4j, Pinecone, MS Fabric, PowerBI
 
  
+{% for post in site.cv reversed %} {% include archive-single.html %} {% endfor %}
+
 
