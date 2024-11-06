@@ -29,7 +29,7 @@ Focused on interpretability in NLP, leveraging LLMs for social media data analys
 
 Work experience
 ======
-  <img src="https://github.com/Hamideh-ghanadian/Hamideh-Ghanadian.github.io/blob/main/images/canada.jpg?raw=true" alt="Logo" width="50" height="40"> **Data Scientist**<br>
+* <img src="https://github.com/Hamideh-ghanadian/Hamideh-Ghanadian.github.io/blob/main/images/canada.jpg?raw=true" alt="Logo" width="50" height="40">**Data Scientist**<br>
     Health Canada<br>
     Pest Management Regulatory Agency, Data Science and Automation (AI-Lab)<br>
     May 2024 – Present<br>
@@ -38,11 +38,11 @@ Work experience
     * Conduct semantic and emotion analysis to interpret public opinion, enhancing insights into public sentiment and detecting possible outrage.
 
 
-<img src="https://github.com/Hamideh-ghanadian/Hamideh-Ghanadian.github.io/blob/main/images/uottawa.png?raw=true" alt="Logo" width="40" height="30"> **Teaching Assistant**<br> 
+* <img src="https://github.com/Hamideh-ghanadian/Hamideh-Ghanadian.github.io/blob/main/images/uottawa.png?raw=true" alt="Logo" width="40" height="30"> **Teaching Assistant**<br> 
     Department of Computer Science and Electrical Engineering<br>
     University of Ottawa<br>
-    Sep 2016 – Present<br>
-
+    Sep 2016 – Present
+    
     * Computer Engineering Design Project
     * Professional Skills, Ethics and Responsibility
     * Electric Circuits and Machines for Mechanical Engineering,
