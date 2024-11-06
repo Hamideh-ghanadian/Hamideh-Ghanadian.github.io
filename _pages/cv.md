@@ -1,10 +1,13 @@
 ---
-layout: archive
-permalink: /cv/
+permalink: /markdown/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
+
+
+
 Education
 ======
 * **Ph.D. in Electrical engineering and Computer Science** 
