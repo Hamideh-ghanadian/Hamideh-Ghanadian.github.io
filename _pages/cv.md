@@ -1,10 +1,12 @@
 ---
-permalink: /markdown/
+layout: archive
+title: "CV"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+redirect_from:
+  - /resume
 ---
+
 {% include base_path %}
 
 Education
@@ -84,6 +86,5 @@ Technical Skills
   MS Azure ML, OpenAI, Neo4j, Pinecone, MS Fabric, PowerBI
 
  
-{% for post in site.cv reversed %} {% include archive-single.html %} {% endfor %}
 
 
