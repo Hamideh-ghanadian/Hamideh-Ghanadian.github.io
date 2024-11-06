@@ -11,6 +11,7 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Electrical engineering and Computer Science** 
+
   Department of Electrical engineering and Computer Science,
   University of Ottawa, Canada
   Jan. 2019 – Expected April 2025
@@ -18,28 +19,35 @@ Education
 Focused on interpretability in NLP, leveraging LLMs for social media data analysis to detect suicidal ideation, bridging NLP with psychological insights.
 
 * **MASc in Electrical engineering and Computer Science (Sep. 2016– Dec. 2018)**
+
   Department of Electrical engineering and Computer Science,
+  
   University of Ottawa, Canada
+  
   Sep 2016 – Dec 2018
     * **Thesis:** Improving Non-Contact Heart Rate Monitoring Using Machine Learning and RGB Cameras
 
 Work experience
 ======
-* **Data Scientist** 
-  Health Canada, Pest Management Regulatory Agency, Data Science and Automation (AI-Lab)
-  May 2024 – Present
-  *  Develop and implement AI-driven solutions for regulatory data, with a focus on automating search and data screening   processes.
-  * Conduct semantic and emotion analysis to interpret public opinion, enhancing insights into public sentiment and detecting possible outrage.
+<img src="URL_TO_YOUR_LOGO" alt="Logo" width="20" height="20">* **Data Scientist**<br>
+    Health Canada<br>
+    Pest Management Regulatory Agency, Data Science and Automation (AI-Lab)<br>
+    May 2024 – Present<br>
+    
+    *  Develop and implement AI-driven solutions for regulatory data, with a focus on automating search and data screening   processes.
+    * Conduct semantic and emotion analysis to interpret public opinion, enhancing insights into public sentiment and detecting possible outrage.
 
 
-* **Teaching Assistant**
-University of Ottawa, Department of Computer Science and Electrical Engineering
-Sep 2016 – Present
-  *	Computer Engineering Design Project
-  *	Professional Skills, Ethics and Responsibility
-  *	Electric Circuits and Machines for Mechanical Engineering,
-  *	Computer Architecture I
-  *	Fundamental of Engineering Computation (Python )
+* **Teaching Assistant**<br> 
+    Department of Computer Science and Electrical Engineering<br>
+    University of Ottawa<br>
+    Sep 2016 – Present<br>
+
+    * Computer Engineering Design Project
+    * Professional Skills, Ethics and Responsibility
+    * Electric Circuits and Machines for Mechanical Engineering,
+    * Computer Architecture I
+    * Fundamental of Engineering Computation (Python )
 
 
 Research experience
