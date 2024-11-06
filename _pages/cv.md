@@ -29,7 +29,7 @@ Focused on interpretability in NLP, leveraging LLMs for social media data analys
 
 Work experience
 ======
-  <img src="https://github.com/Hamideh-ghanadian/Hamideh-Ghanadian.github.io/blob/main/images/canada.jpg?raw=true" alt="Logo" width="40" height="40"> **Data Scientist**<br>
+  <img src="https://github.com/Hamideh-ghanadian/Hamideh-Ghanadian.github.io/blob/main/images/canada.jpg?raw=true" alt="Logo" width="50" height="40"> **Data Scientist**<br>
     Health Canada<br>
     Pest Management Regulatory Agency, Data Science and Automation (AI-Lab)<br>
     May 2024 – Present<br>
