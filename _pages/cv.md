@@ -5,8 +5,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
-
+{% include base_path %}
 
 Education
 ======
