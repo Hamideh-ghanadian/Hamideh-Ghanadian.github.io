@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="hamideh-ghanadian" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/hamideh-ghanadian?trk=profile-badge">Hamideh Ghanadian</a></div>
-              I am a Ph.D. candidate at the University of Ottawa. My research interest lies in Natural Language Processing (NLP) with an interdisciplinary focus on psychology.  I am particularly interested in incorporating the principles of responsible AI into digital solutions, ensuring that ethical considerations are at the forefront of technological advancements. My work aims to develop NLP algorithms that not only improve our understanding of human communication and psychology but also prioritize ethical standards in the evolving AI landscape.
+
+
+I am a Ph.D. candidate at the University of Ottawa. My research interest lies in Natural Language Processing (NLP) with an interdisciplinary focus on psychology.  I am particularly interested in incorporating the principles of responsible AI into digital solutions, ensuring that ethical considerations are at the forefront of technological advancements. My work aims to develop NLP algorithms that not only improve our understanding of human communication and psychology but also prioritize ethical standards in the evolving AI landscape.
 
 In addition to my research, I enjoy staying active and exploring the outdoors. Whether it's hiking and biking. I love getting outside and enjoying all that nature has to offer. I also enjoy reading and learning about new topics, particularly in the fields of science and technology.
 
